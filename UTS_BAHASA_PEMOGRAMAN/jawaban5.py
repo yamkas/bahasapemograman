@@ -42,7 +42,7 @@ while pilihan=="y":
         pilihan=input("menu tidak tersedia, silakan masukan menu yang tersedia Y/N =")
  
     print("--------------------------")
-    print("Ananda Coffe")
+    print("Yamkas Coffe")
     print("--------------------------")
     print("Menu :",listnama)
     print("Jumlah Pesan :", jumlahpesan)
